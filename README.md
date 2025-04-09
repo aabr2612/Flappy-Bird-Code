@@ -44,7 +44,7 @@ You do **not** need to download anything extra — all assets are included in th
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/aabr2612/Flappy-Bird
+   git clone https://github.com/aabr2612/Flappy-Bird-Code
 2. **Open the project in Unity**:
    - Launch **Unity Hub**.
    - Click **"Open"**.
